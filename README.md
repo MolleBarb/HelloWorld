@@ -1,3 +1,3 @@
 # HelloWorld
 Første projekt i skolen
-Edit for første gant
+Edit for første gang
